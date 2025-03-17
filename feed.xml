@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Grapito</title>
+    <link href="https://github.com/grapitodesigns/grapito/feed.xml" rel="self" />
+    <link href="https://github.com/grapitodesigns/grapito" />
+    <updated>2025-03-13T19:29:18+05:30</updated>
+    <author>
+        <name>Grapito</name>
+    </author>
+    <id>https://github.com/grapitodesigns/grapito</id>
+
+    <entry>
+        <title>A Logo That Makes Waves..!</title>
+        <author>
+            <name>Grapito</name>
+        </author>
+        <link href="https://github.com/grapitodesigns/grapito/a-logo-that-makes-waves/index.html"/>
+        <id>https://github.com/grapitodesigns/grapito/a-logo-that-makes-waves/index.html</id>
+        <media:content url="https://github.com/grapitodesigns/grapito/media/posts/10/fishland.jpg" medium="image" />
+            <category term="Branding"/>
+
+        <updated>2025-03-13T19:29:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/grapitodesigns/grapito/media/posts/10/fishland.jpg" alt="" />
+                    <p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Designed a bold and impactful image-based logo for Samudra Fishland, a seafood sales and export business.<br></span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/grapitodesigns/grapito/media/posts/10/fishland.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Designed a bold and impactful image-based logo for Samudra Fishland, a seafood sales and export business.<br></span></p>
+
+<p><span style="font-weight: 400;">Samudra Fishland, a seafood sales and export company, needed a strong image-based logo that instantly conveyed their industry and expertise. The challenge was to create a design that reflected freshness, trust, and the essence of the ocean. Our approach incorporated marine-inspired elements, ensuring the logo was visually striking, memorable, and resonated with their brand identity.</span><span style="font-weight: 400;"><br></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brand Logo for Leadergates</title>
+        <author>
+            <name>Grapito</name>
+        </author>
+        <link href="https://github.com/grapitodesigns/grapito/brand-logo-for-leadergates/index.html"/>
+        <id>https://github.com/grapitodesigns/grapito/brand-logo-for-leadergates/index.html</id>
+        <media:content url="https://github.com/grapitodesigns/grapito/media/posts/9/leadergate.jpg" medium="image" />
+            <category term="Branding"/>
+
+        <updated>2025-03-13T19:26:40+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://github.com/grapitodesigns/grapito/media/posts/9/leadergate.jpg" alt="" />
+                    <p><span style="font-weight: 400;">Designed a logo for LeaderGate, an automatic door solutions provider in UAE, ensuring it reflects their products and services at first glance.<br></span></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/grapitodesigns/grapito/media/posts/9/leadergate.jpg" class="type:primaryImage" alt="" /></p>
+                <p><span style="font-weight: 400;">Designed a logo for LeaderGate, an automatic door solutions provider in UAE, ensuring it reflects their products and services at first glance.<br></span></p>
+
+<p><span style="font-weight: 400;">LeaderGate, a provider of automatic door sales and services in the UAE, required a logo that instantly communicated their expertise. The challenge was to create a design that visually represented both automation and security while maintaining a modern, professional look. Our approach combined clean, dynamic elements that symbolized movement and reliability, ensuring the brand identity aligned perfectly with their industry and services</span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
